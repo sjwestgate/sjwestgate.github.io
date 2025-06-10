@@ -13,6 +13,6 @@ In October I am running the Manchester Half Marathon for Alzheimer's Society! [C
 
 
 <figure>
-  <img src="https://github.com/user-attachments/assets/acce93e9-dcf5-422e-a516-7adf2145f658" width=50% height=50%> 
+  <img src="https://github.com/user-attachments/assets/8fe5cd08-2321-4d54-b0c3-d1f23a23b2b0" width= 50% height= auto> 
   <figcaption>Me and Lucy at Gravelly Point!</figcaption>
 </figure>
