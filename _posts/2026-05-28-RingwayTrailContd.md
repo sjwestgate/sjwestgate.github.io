@@ -1,6 +1,6 @@
 ---
-Title: "Ringway trail sections 2-5"
-Date: 2026-05-28
+title: "Ringway trail sections 2-5"
+date: 2026-05-28
 ---
 In the last month, I've completed a further 4 sections of the GM ringway trail. I thought it would be fun to do a little recap of them here, since I described the first one in such detail. 
 
